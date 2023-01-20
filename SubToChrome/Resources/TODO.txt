@@ -1,0 +1,11 @@
+﻿TODO now:
+1. Fix the fucking subtimer so that the sub doesent slowly get later and later ffs
+	- This could either be done by calculating the accruracy loss or by making the time more accurate
+2. Fix subs always in the center of the screen, prob posX = PosX - (string.length * posSize); or something like that
+3. Make shortcuts actually working.
+4. Fix actually working settings
+5. Make it more visually appealing
+6. Search for subs in the app and automatic remove the junk, etc: ">", "--" "," .... and so on
+
+Extra: 
+	Write the current sub text to a txt file so a discord bot could access it and send to a discord server
